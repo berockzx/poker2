@@ -1,0 +1,4 @@
+id=spixi.poker
+name=Spixi Poker
+version=1.0.0
+entry=app/index.html

@@ -1,0 +1,9 @@
+{
+  "id": "spixi.poker",
+  "name": "Spixi Poker",
+  "description": "Texas Hold'em light (2 players, 100 IXI entry)",
+  "version": "1.0.0",
+  "entry": "index.html",
+  "icon": "icon.png",
+  "permissions": ["wallet", "network", "storage"]
+}
